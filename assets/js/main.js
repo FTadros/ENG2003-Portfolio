@@ -203,7 +203,7 @@
    */
   const portfolioLightbox = GLightbox({
     selector: '.portfolio-lightbox',
-    height: '25vh'
+    height: '12.5vh'
   });
 
   /**
